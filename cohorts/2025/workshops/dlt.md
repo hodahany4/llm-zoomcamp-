@@ -85,7 +85,7 @@ Look for `"Normalized data for the following tables:"` in the trace output.
 When inserting the data, an embedding model was used. Which one?
 
 You can find this out by inspecting the `meta.json` file created
-in the target folder.
+in the target folder. The `meta.json` file can be found within the folder generated in the working directory."
 
 
 
